@@ -1,12 +1,12 @@
-# Auto-generated README (Round 1)
+# Auto-generated README (Round 2)
 
-**Project brief:** Create a calculator that adds two numbers
+**Project brief:** Add multiplication and division functions to the calculator
 
 **Attachments:**
 
 
 **Checks to meet:**
-Has MIT license\nCalculator works properly
+Calculator handles multiplication\nCalculator handles division
 
 ## Setup
 1. Open `index.html` in a browser.
